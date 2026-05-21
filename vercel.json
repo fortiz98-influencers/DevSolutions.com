@@ -1,0 +1,8 @@
+{
+  "buildCommand": "echo 'Static HTML site'",
+  "outputDirectory": ".",
+  "framework": "html",
+  "env": {
+    "VERCEL_ENV": "production"
+  }
+}
